@@ -1,0 +1,22 @@
+{
+  "name": "my-light-theme",
+  "displayName": "my-light-theme",
+  "description": "Simple light theme for vscode",
+  "version": "0.0.1",
+  "publisher": "JonaDuran",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Simple Light Theme-color-theme.json"
+      }
+    ]
+  }
+}

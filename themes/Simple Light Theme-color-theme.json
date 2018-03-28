@@ -1,0 +1,92 @@
+{
+	"type": "light",
+	"colors": {
+		"editor.background": "#FAFAFA",
+		"editor.foreground": "#111111",
+		"editor.lineHighlightBackground": "#0055AA11",
+		"editor.selectionBackground": "#0055AA22",
+		"editorCursor.foreground": "#111111",
+		"editorWhitespace.foreground": "#E5E5E5",
+		"editor.wordHighlightBackground": "#0055AA11",
+		"editor.wordHighlightStrongBackground": "#0055AA44",
+		"editor.findMatchHighlightBackground": "#FF880044",
+		"editor.findMatchBackground": "#FF880099",
+		"editor.hoverHighlightBackground": "#11111122",
+		"editorBracketMatch.background": "#11111122",
+		"tab.inactiveBackground": "#F3F3F3",
+		"sideBar.background": "#FAFAFA",
+		"sideBar.border": "#F3F3F3",
+		"sideBar.foreground": "#111111",
+		"editorSuggestWidget.background": "#F3F3F3",
+		"list.inactiveSelectionBackground": "#0055AA11"
+	},
+	"tokenColors": [
+		{
+			"scope": "string, constant.other.character-class.range.regexp, constant.other.character-class.set.regexp, keyword.operator.quantifier.regexp, punctuation.definition.template-expression, variable.interpolation.scss",
+			"settings": {
+				"foreground": "#BB6600"
+			}
+		},
+		{
+			"scope": "variable, meta.template.expression, constant.other, support.type.property-name.css",
+			"settings": {
+				"foreground": "#111111"
+			}
+		},
+		{
+			"scope": "constant, variable.language, variable.argument.css",
+			"settings": {
+				"foreground": "#BB00BB"
+			}
+		},
+		{
+			"scope": "keyword, storage",
+			"settings": {
+				"foreground": "#0055DD"
+			}
+		},
+		{
+			"scope": "entity.name.tag, entity.name.type.class, entity.name.function.decorator",
+			"settings": {
+				"foreground": "#C70055"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name, entity.name.function, support.function, support.class.builtin, meta.function-call.generic, support.type",
+			"settings": {
+				"foreground": "#008800"
+			}
+		},
+		{
+			"scope": "comment, storage.type.class.jsdoc, variable.other.jsdoc",
+			"settings": {
+				"foreground": "#999999",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#316bcd"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#cd9731"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#cd3131"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#800080"
+			}
+		}
+	]
+}
