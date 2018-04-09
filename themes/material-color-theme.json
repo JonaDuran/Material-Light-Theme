@@ -2,65 +2,65 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#FAFAFA",
-		"editor.foreground": "#111111",
+		"editor.foreground": "#212121",
 		"editor.lineHighlightBackground": "#0055AA11",
 		"editor.selectionBackground": "#0055AA22",
-		"editorCursor.foreground": "#111111",
+		"editorCursor.foreground": "#212121",
 		"editorWhitespace.foreground": "#E5E5E5",
 		"editor.wordHighlightBackground": "#0055AA11",
 		"editor.wordHighlightStrongBackground": "#0055AA44",
-		"editor.findMatchHighlightBackground": "#FF880044",
-		"editor.findMatchBackground": "#FF880099",
-		"editor.hoverHighlightBackground": "#11111122",
-		"editorBracketMatch.background": "#11111122",
+		"editor.findMatchHighlightBackground": "#FF880033",
+		"editor.findMatchBackground": "#FF880077",
+		"editor.hoverHighlightBackground": "#0055AA22",
+		"editorBracketMatch.background": "#0055AA22",
 		"tab.inactiveBackground": "#F3F3F3",
 		"sideBar.background": "#FAFAFA",
 		"sideBar.border": "#F3F3F3",
-		"sideBar.foreground": "#111111",
+		"sideBar.foreground": "#212121",
 		"editorSuggestWidget.background": "#F3F3F3",
-		"list.inactiveSelectionBackground": "#0055AA11"
+		"list.inactiveSelectionBackground": "#0055AA22"
 	},
 	"tokenColors": [
 		{
 			"scope": "string, constant.other.character-class.range.regexp, constant.other.character-class.set.regexp, keyword.operator.quantifier.regexp, punctuation.definition.template-expression, variable.interpolation.scss",
 			"settings": {
-				"foreground": "#BB6600"
+				"foreground": "#BF360C"
 			}
 		},
 		{
 			"scope": "variable, meta.template.expression, constant.other, support.type.property-name.css",
 			"settings": {
-				"foreground": "#111111"
+				"foreground": "#212121"
 			}
 		},
 		{
 			"scope": "constant, variable.language, variable.argument.css",
 			"settings": {
-				"foreground": "#BB00BB"
+				"foreground": "#8E24AA"
 			}
 		},
 		{
 			"scope": "keyword, storage",
 			"settings": {
-				"foreground": "#0055DD"
+				"foreground": "#1976D2"
 			}
 		},
 		{
 			"scope": "entity.name.tag, entity.name.type.class, entity.name.function.decorator",
 			"settings": {
-				"foreground": "#C70055"
+				"foreground": "#C2185B"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name, entity.name.function, support.function, support.class.builtin, meta.function-call.generic, support.type",
 			"settings": {
-				"foreground": "#008800"
+				"foreground": "#388E3C"
 			}
 		},
 		{
 			"scope": "comment, storage.type.class.jsdoc, variable.other.jsdoc",
 			"settings": {
-				"foreground": "#999999",
+				"foreground": "#BDBDBD",
 				"fontStyle": "italic"
 			}
 		},

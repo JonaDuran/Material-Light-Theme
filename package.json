@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Simple Light Theme",
+        "label": "My Clasic",
         "uiTheme": "vs",
-        "path": "./themes/Simple Light Theme-color-theme.json"
+        "path": "./themes/clasic-color-theme.json"
+      },
+      {
+        "label": "My Material",
+        "uiTheme": "vs",
+        "path": "./themes/material-color-theme.json"
       }
     ]
   }
