@@ -1,7 +1,6 @@
 {
   "name": "my-light-theme",
-  "displayName": "my-light-theme",
-  "description": "Simple light theme for vscode",
+  "displayName": "Material Light Theme",
   "version": "0.0.1",
   "publisher": "JonaDuran",
   "engines": {
