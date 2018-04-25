@@ -1,3 +1,3 @@
 Light theme with material design colors.
 
-![alt](https://github.com/JonaDuran/Material-Light-Theme/blob/master/example/example.png)
+![alt](https://raw.githubusercontent.com/JonaDuran/Material-Light-Theme/master/example/example.png)
