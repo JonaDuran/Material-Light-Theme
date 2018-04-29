@@ -67,7 +67,8 @@
 				"constant.other",
 				"entity.name.tag.css",
 				"entity.name.tag.custom",
-				"constant.language.pseudo"
+				"constant.language.pseudo",
+				"punctuation.separator.key-value"
 			],
 			"settings": {
 				"foreground": "#212121"
@@ -98,7 +99,8 @@
 				"entity.name.tag",
 				"entity.name.function",
 				"support.function",
-				"_meta.function-call.generic"
+				"entity.name.type.class",
+				"new.expr entity.name.type"
 			],
 			"settings": {
 				"foreground": "#1565C0"
@@ -109,7 +111,6 @@
 				"entity.other.attribute-name.js",
 				"entity.other.attribute-name.html",
 				"support.class.builtin",
-				"support.type",
 				"meta.object-literal.key",
 				"variable.object.property"
 			],
@@ -126,6 +127,17 @@
 			"settings": {
 				"foreground": "#9E9E9E",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.type.annotation",
+				"meta.return.type",
+				"keyword.operator.type.annotation"
+			],
+			 
+			"settings": {
+				"foreground": "#9E9E9E"
 			}
 		}
 	]
