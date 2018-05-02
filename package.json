@@ -3,6 +3,7 @@
   "displayName": "Material Light Theme",
   "version": "1.0.1",
   "publisher": "JonaDuran",
+  "repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
   "engines": {
     "vscode": "^1.21.0"
   },
