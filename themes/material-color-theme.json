@@ -17,6 +17,7 @@
 		"editorWidget.background": "#F5F5F5",
 		"editorWidget.border": "#E0E0E0",
 		"widget.shadow": "#E0E0E0",
+		"editorIndentGuide.activeBackground": "#BDBDBD",
 		
 		"tab.inactiveBackground": "#F5F5F5",
 		"editorGroupHeader.tabsBackground": "#F5F5F5",
