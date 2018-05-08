@@ -1,7 +1,7 @@
 {
   "name": "my-light-theme",
   "displayName": "Material Light Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "JonaDuran",
   "repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
   "engines": {
@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "https://raw.githubusercontent.com/JonaDuran/Material-Light-Theme/master/icon/icon.png",
   "contributes": {
     "themes": [
       {
