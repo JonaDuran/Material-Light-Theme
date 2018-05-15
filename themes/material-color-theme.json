@@ -55,7 +55,8 @@
 				"constant.other.character-class.set.regexp",
 				"keyword.operator.quantifier.regexp",
 				"punctuation.definition.template-expression",
-				"variable.interpolation.scss"
+				"variable.interpolation.scss",
+				"support.constant.property-value"
 			],
 			"settings": {
 				"foreground": "#B97700"
@@ -65,9 +66,6 @@
 			"scope": [
 				"variable",
 				"meta.template.expression",
-				"_constant.other",
-				"entity.name.tag.css",
-				"entity.name.tag.custom",
 				"constant.language.pseudo",
 				"punctuation.separator.key-value"
 			],
@@ -78,7 +76,6 @@
 		{
 			"scope": [
 				"constant",
-				"keyword.other.unit",
 				"variable.language"
 			],
 			"settings": {
@@ -109,12 +106,13 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name.js",
-				"entity.other.attribute-name.html",
+				"entity.other.attribute-name",
 				"support.class.builtin",
 				"meta.object-literal.key",
 				"variable.object.property",
-				"support.type.property-name"
+				"support.type.property-name.json",
+				"entity.name.tag.css",
+				"entity.name.tag.custom"
 			],
 			"settings": {
 				"foreground": "#2E7D32"
