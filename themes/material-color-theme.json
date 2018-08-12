@@ -14,6 +14,7 @@
 		"editorBracketMatch.background": "#01579B22",
 		"editorWhitespace.foreground": "#E0E0E0",
 		"editorLineNumber.foreground": "#9E9E9E",
+		"editorLineNumber.activeForeground": "#78909C",
 		"editorWidget.background": "#F5F5F5",
 		"editorWidget.border": "#E0E0E0",
 		"widget.shadow": "#E0E0E0",
@@ -67,7 +68,10 @@
 				"variable",
 				"meta.template.expression",
 				"constant.language.pseudo",
-				"punctuation.separator.key-value"
+				"punctuation.separator.key-value",
+				"storage.modifier.import",
+				"new.expr entity.name.type.module",
+				"constant.other.php"
 			],
 			"settings": {
 				"foreground": "#212121"
@@ -98,7 +102,8 @@
 				"entity.name.function",
 				"support.function",
 				"entity.name.type.class",
-				"new.expr entity.name.type"
+				"new.expr entity.name.type",
+				"storage.type.java"
 			],
 			"settings": {
 				"foreground": "#1565C0"
@@ -122,7 +127,8 @@
 			"scope": [
 				"comment",
 				"storage.type.class.jsdoc",
-				"variable.other.jsdoc"
+				"variable.other.jsdoc",
+				"comment.block.documentation.phpdoc"
 			],
 			"settings": {
 				"foreground": "#9E9E9E",
@@ -133,11 +139,12 @@
 			"scope": [
 				"meta.type.annotation",
 				"meta.return.type",
-				"keyword.operator.type.annotation"
+				"keyword.operator.type.annotation",
+				"meta.type.parameters",
+				"storage.type.annotation"
 			],
-			 
 			"settings": {
-				"foreground": "#9E9E9E"
+				"foreground": "#78909C"
 			}
 		},
 		{
@@ -171,7 +178,9 @@
 		},
 		{
 			"scope": [
-				"markup.bold"
+				"markup.bold",
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
 			],
 			 
 			"settings": {

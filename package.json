@@ -1,7 +1,7 @@
 {
   "name": "my-light-theme",
   "displayName": "Material Light Theme",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "publisher": "JonaDuran",
   "repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
   "engines": {
@@ -19,5 +19,6 @@
         "path": "./themes/material-color-theme.json"
       }
     ]
-  }
+  },
+  "dependencies": {}
 }
