@@ -71,7 +71,8 @@
 				"punctuation.separator.key-value",
 				"storage.modifier.import",
 				"new.expr entity.name.type.module",
-				"constant.other.php"
+				"constant.other.php",
+				"support.variable"
 			],
 			"settings": {
 				"foreground": "#212121"
@@ -151,7 +152,6 @@
 			"scope": [
 				"markup.heading"
 			],
-			 
 			"settings": {
 				"foreground": "#C62828",
 				"fontStyle": "bold"
@@ -162,7 +162,6 @@
 				"markup.raw",
 				"markup.inline.raw"
 			],
-			 
 			"settings": {
 				"foreground": "#B97700"
 			}
@@ -171,7 +170,6 @@
 			"scope": [
 				"markup.italic"
 			],
-			 
 			"settings": {
 				"fontStyle": "italic"
 			}
@@ -182,7 +180,6 @@
 				"punctuation.section.embedded.begin.php",
 				"punctuation.section.embedded.end.php"
 			],
-			 
 			"settings": {
 				"fontStyle": "bold"
 			}
