@@ -1,24 +1,29 @@
 {
-  "name": "my-light-theme",
-  "displayName": "Material Light Theme",
-  "version": "1.0.8",
-  "publisher": "JonaDuran",
-  "repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
-  "engines": {
-    "vscode": "^1.21.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "icon/icon.gif",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Material Light",
-        "uiTheme": "vs",
-        "path": "./themes/material-color-theme.json"
-      }
-    ]
-  },
-  "dependencies": {}
+	"name": "my-light-theme",
+	"displayName": "Material Light Theme",
+	"version": "1.0.10",
+	"publisher": "JonaDuran",
+	"repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon/icon.gif",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Light",
+				"uiTheme": "vs",
+				"path": "./themes/material-color-theme.json"
+			}
+		]
+	},
+	"dependencies": {},
+	"__metadata": {
+		"id": "ab1ca0da-c2ed-40aa-810a-e6d3b7dd9593",
+		"publisherDisplayName": "Jonathan Durán",
+		"publisherId": "d757a3ce-2290-4b25-83d0-cb1a84235ee9"
+	}
 }
