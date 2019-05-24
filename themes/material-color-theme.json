@@ -57,7 +57,8 @@
 				"keyword.operator.quantifier.regexp",
 				"punctuation.definition.template-expression",
 				"variable.interpolation.scss",
-				"support.constant.property-value"
+				"support.constant.property-value",
+				"support.constant.color"
 			],
 			"settings": {
 				"foreground": "#A8601A"
@@ -82,6 +83,7 @@
 			"scope": [
 				"constant.language",
 				"constant.numeric",
+				"constant.other.color",
 				"variable.language"
 			],
 			"settings": {
@@ -94,7 +96,7 @@
 				"storage",
 				"entity.name.tag.reference",
 				"punctuation.separator.key-value",
-				"support.type"
+				"support.type.python"
 			],
 			"settings": {
 				"foreground": "#9C00B0"
