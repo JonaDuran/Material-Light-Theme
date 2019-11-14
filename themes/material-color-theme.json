@@ -107,6 +107,7 @@
 				"entity.name.tag",
 				"entity.name.function",
 				"support.function",
+				"support.class.builtin",
 				"entity.name.type.class",
 				"new.expr entity.name.type",
 				"storage.type.java",
@@ -120,7 +121,6 @@
 		{
 			"scope": [
 				"entity.other.attribute-name",
-				"support.class.builtin",
 				"meta.object-literal.key",
 				"variable.object.property",
 				"support.type.property-name.json",
@@ -172,7 +172,7 @@
 				"markup.inline.raw"
 			],
 			"settings": {
-				"foreground": "#B97700"
+				"foreground": "#A8601A"
 			}
 		},
 		{
