@@ -21,7 +21,6 @@
 		"editorIndentGuide.activeBackground": "#BDBDBD",
 		
 		"tab.inactiveBackground": "#F5F5F5",
-		"editorGroupHeader.tabsBackground": "#F5F5F5",
 		"sideBar.foreground": "#212121",
 		"sideBar.background": "#F5F5F5",
 		
@@ -46,7 +45,25 @@
 		"scrollbarSlider.background": "#21212121",
 		"input.background": "#FAFAFA",
 		"input.foreground": "#212121",
-		"input.border": "#E0E0E0"
+		"input.border": "#E0E0E0",
+
+		"terminal.foreground": "#212121",
+		"terminal.ansiBlack": "#212121",
+		"terminal.ansiBlue": "#1565C0",
+		"terminal.ansiGreen": "#2E7D32",
+		"terminal.ansiYellow": "#A8601A",
+		"terminal.ansiCyan": "#00838f",
+		"terminal.ansiMagenta": "#9C00B0",
+		"terminal.ansiRed": "#C0392B",
+		"terminal.ansiWhite": "#E0E0E0",
+		"terminal.ansiBrightBlack": "#212121",
+		"terminal.ansiBrightBlue": "#1565C0",
+		"terminal.ansiBrightGreen": "#2E7D32",
+		"terminal.ansiBrightYellow": "#A8601A",
+		"terminal.ansiBrightCyan": "#00838f",
+		"terminal.ansiBrightMagenta": "#9C00B0",
+		"terminal.ansiBrightRed": "#C0392B",
+		"terminal.ansiBrightWhite": "#E0E0E0",
 	},
 	"tokenColors": [
 		{
