@@ -1,7 +1,7 @@
 {
 	"name": "my-light-theme",
 	"displayName": "Material Light Theme (And Dark)",
-	"version": "1.1.1",
+	"version": "1.1.3",
 	"publisher": "JonaDuran",
 	"repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
 	"engines": {
@@ -22,11 +22,6 @@
 				"label": "Material Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/material-dark-color-theme.json"
-			},
-			{
-				"label": "Material Dark (One)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/one-dark-color-theme.json"
 			}
 		]
 	},
