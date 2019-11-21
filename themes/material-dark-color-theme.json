@@ -24,16 +24,13 @@
 		"sideBar.background": "#202020",
 		"sideBar.foreground": "#D0D0D0",
 		"sideBarSectionHeader.foreground": "#D0D0D0",
-		"sideBarSectionHeader.background": "#282828",
+		"sideBarSectionHeader.background": "#383838",
 
 		"list.hoverBackground": "#303030",
 		"list.inactiveSelectionBackground": "#303030",
 		"list.activeSelectionBackground": "#485060",
 		"list.focusBackground": "#485060",
 		"list.activeSelectionForeground": "#D0D0D0",
-
-		"scrollbar.shadow": "#181818",
-		"scrollbarSlider.background": "#484848",
 
 		"tab.inactiveBackground": "#181818",
 		"tab.activeBackground": "#282828",
