@@ -1,4 +1,23 @@
 
+function MyComponent({ name, label }) {
+  const object = {
+    prop: false || 100,
+    // otherProp: null
+  }
+  const handleClick = () => {
+    alert(`Hello ${name}!`)
+  }
+  return (
+    <button onClick={handleClick}>
+      {label.toUpperCase()}
+    </button>
+  )
+}
+
+
+
+MyComponent
+
 class XEditable extends Component {
 
   constructor(props) {

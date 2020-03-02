@@ -1,7 +1,7 @@
 {
 	"name": "my-light-theme",
 	"displayName": "Material Light Theme (And Dark)",
-	"version": "1.1.5",
+	"version": "1.1.7",
 	"publisher": "JonaDuran",
 	"repository": "https://github.com/JonaDuran/Material-Light-Theme.git",
 	"engines": {
@@ -10,7 +10,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "icon/icon.gif",
+	"icon": "icon/icon2.png",
 	"contributes": {
 		"themes": [
 			{
