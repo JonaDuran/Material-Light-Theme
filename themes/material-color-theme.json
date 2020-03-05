@@ -39,9 +39,12 @@
 		"editorGutter.deletedBackground": "#C0392B88",
 		
 		"statusBar.background": "#0277BD",
+		"statusBar.foreground": "#FAFAFA",
+		"statusBar.debuggingBackground": "#A8601A",
+		"debugIcon.breakpointForeground": "#C0392B",
+		
 		"activityBarBadge.background": "#0277BD",
 		"activityBar.foreground": "#F5F5F5",
-		"statusBar.foreground": "#FAFAFA",
 		"scrollbarSlider.background": "#21212121",
 		"input.background": "#FAFAFA",
 		"input.foreground": "#212121",
